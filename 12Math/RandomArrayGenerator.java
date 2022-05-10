@@ -16,7 +16,8 @@ public class RandomArrayGenerator{
 		}
 		return arr;
 	}
-	public static int genInt(int max, int min){
+	public static int genInt(int min, int max){
+	// Genera un valor entero aleatorio entre "min" incluido y "max" excluido
 		int a = (int)(Math.random() * (max - min) + min);
 		return a;
 	}
