@@ -9,12 +9,16 @@ public class RandomArrayGenerator{
 	// Genera un arreglo de enteros
 	// "size" es el tamaño del arreglo
 	// "min" es el minimo valor aleatorio, el valor es incluido
-	// "max" es el máximo valor aleatorio, el valor es  excluido
+	// "max" es el máximo valor aleatorio, el valor es excluido
 		int[] arr = new int[size];
 		for(int i = 0; i < size; i++){
-			arr[i] = (int)(Math.random() * (max - min) + min);
+			arr[i] = genInt(min, max);
 		}
 		return arr;
+	}
+	public static int genInt(int max, int min){
+		int a = (int)(Math.random() * (max - min) + min);
+		return a;
 	}
 	public static void printArr(int[] arr){
 	// Imprime un arreglo de enteros
