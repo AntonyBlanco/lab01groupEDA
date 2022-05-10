@@ -1,4 +1,4 @@
-# Pw2-Lab02
+# EDA-Lab01
 <table>
     <theader>
         <tr>
@@ -136,9 +136,7 @@
 			[1]“Java tutorial”, W3schools.com. [En línea]. Disponible en: https://www.w3schools.com/java/. [Consultado: 09-may-2022].
 			</li>
 			<li>
-			[2]C. Rondón, “Ramas y resolución de conflictos en git”, Styde.net. [En línea]. Disponible en: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/. [Consultado: 10-may-2022].
-
-			</li>
+		[2]C. Rondón, “Ramas y resolución de conflictos en git”, Styde.net. [En línea]. Disponible en: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/. [Consultado: 10-may-2022].</li>
                 </ul>
             </td>
         </tr>
