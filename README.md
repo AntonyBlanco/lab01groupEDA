@@ -77,7 +77,7 @@
             <td>
             II. SOLUCIÓN DEL CUESTIONARIO<br>
 		<dl>
-                    <dt>¿por qué Git y GitHub son herramientas importantes para el curso?</dt>
+                    <dt>¿Por qué Git y GitHub son herramientas importantes para el curso?</dt>
                     	<dd>En realidad creemos que estas herramientas van más allá del curso, pues son tecnologías que es el pan de cada dia de desarrolladores de todo el mundo, pues es la forma más optima de trabajo colaborativo.
 		    	</dd>
                     <dt>¿Qué conductas éticas deberían promocionarse cuando se usa un sistema de control de versiones?</dt>
@@ -100,8 +100,7 @@
 		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el
 		    manejo de java.
 		    </li>
-                    <li>Colocar conclusiones</li>
-		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el manejo de java.
+                    <li>Los problemas que más inconvenientes trajeron fueron la de resolver conflictos al momento del push o pull</li>
 		    </li>
                 </ul>
             </td>
@@ -137,7 +136,8 @@
 			[1]“Java tutorial”, W3schools.com. [En línea]. Disponible en: https://www.w3schools.com/java/. [Consultado: 09-may-2022].
 			</li>
 			<li>
-			lista
+			[2]C. Rondón, “Ramas y resolución de conflictos en git”, Styde.net. [En línea]. Disponible en: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/. [Consultado: 10-may-2022].
+
 			</li>
                 </ul>
             </td>
