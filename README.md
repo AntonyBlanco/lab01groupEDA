@@ -100,7 +100,7 @@
 		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el
 		    manejo de java.
 		    </li>
-                    <li>Los problemas que más inconvenientes trajeron fueron la de resolver conflictos al momento del push o pull</li>
+                    <li>Los problemas que más inconvenientes trajeron fueron la de resolver conflictos al momento del push o pull.</li>
 		    </li>
                 </ul>
             </td>
@@ -137,8 +137,6 @@
 			</li>
 			<li>
 		[2]C. Rondón, “Ramas y resolución de conflictos en git”, Styde.net. [En línea]. Disponible en: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/. [Consultado: 10-may-2022].</li>
-			[2]C. Rondón, “Ramas y resolución de conflictos en git”, Styde.net. [En línea]. Disponible en: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/. [Consultado: 10-may-2022].
-			</li>
                 </ul>
             </td>
         </tr>
