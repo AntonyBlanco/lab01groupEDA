@@ -1,4 +1,4 @@
-# Pw2-Lab02
+# EDA-Lab01
 <table>
     <theader>
         <tr>
