@@ -77,7 +77,7 @@
             <td>
             II. SOLUCIÓN DEL CUESTIONARIO<br>
                 <ul>
-                    <li>Colocar preguntas y respuestas</li>
+                    <li>¿por qué Git y GitHub son herramientas importantes para el curso?</li>
                 </ul>
             </td>
         </tr>
@@ -85,6 +85,16 @@
             <td>
             III. CONCLUSIONES<br>
                 <ul>
+                    <li>
+		    El manejo de Git y GitHub por lo general al inicio es engorroso, sin embargo, con el uso prolongado se hace bastante más facil de abordar, además de que logras apreciar 			mejor los beneficios que trae consigo. Esta asignación logró mejorar el desarrollo con estas tecnologias. 
+		    </li>
+                    <li>
+		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el
+		    menejo de java.
+		    </li>
+
+                    <li>Colocar conclusiones</li>
+                    <li>Colocar conclusiones</li>
                     <li>Colocar conclusiones</li>
                 </ul>
             </td>
@@ -116,7 +126,12 @@
         <tr>
             <td>
                 <ul>
-                    <li>Lista</li>
+			<li>
+			[1]“Java tutorial”, W3schools.com. [En línea]. Disponible en: https://www.w3schools.com/java/. [Consultado: 09-may-2022].
+			</li>
+			<li>
+			lista
+			</li>
                 </ul>
             </td>
         </tr>
