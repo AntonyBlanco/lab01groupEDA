@@ -22,7 +22,7 @@ public class Cumpleanios{
 		System.out.print("\nAssistants quantity: " + qtyAssistants);
 
 		System.out.print("\nDivide in decimal or integer parts? (d/i): ");
-		char diInput = 'd';
+		char diInput = 'i';
 		boolean boolDecOrInt = false; // Peso decimal o entero
 		if(diInput == 'd'){ // Particion modo Decimal
 			boolDecOrInt = false;
@@ -42,9 +42,9 @@ public class Cumpleanios{
 		double[] parts = new double[qtyPeople];
 		double division = cakeW/qtyPeople;
 		if(decimalOrInteger){ // Integer
-			int divInt = (int)division;
+			int divInt = (int)division; // Narrowing casting
 			for(int i = 0; i < qtyPeople; i++){
-				parts[i] = divInt;
+				parts[i] = divInt; // Widening casting
 			}
 			double rest = cakeW - (divInt*qtyPeople);
 			parts[0] += rest;
@@ -59,6 +59,14 @@ public class Cumpleanios{
 	public static void mostrarRepartidos(double parts[]){
 	// Muestra en la salida estandar cada uno de los elementos del la lista de particiones
 		System.out.println("Showing parts ...");
+		System.out.println(" Portions weight:");
+		double total = 0;
+		for(int i = 0; i < parts.length; i++){
+			double weight = parts[i];
+			total += weight;
+			System.out.println(" Portion " + (i + 1) + ": " + weight + " gr");
+		}
+		System.out.println(" Total (" + parts.length + " portions): " + total + " gr");
 	}
 }
 
