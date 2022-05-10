@@ -91,10 +91,6 @@
                     <li>
 		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el manejo de java.
 		    </li>
-
-                    <li>Colocar conclusiones</li>
-                    <li>Colocar conclusiones</li>
-                    <li>Colocar conclusiones</li>
                 </ul>
             </td>
         </tr>
