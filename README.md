@@ -137,7 +137,6 @@
 			</li>
 			<li>
 			[2]C. Rondón, “Ramas y resolución de conflictos en git”, Styde.net. [En línea]. Disponible en: https://styde.net/ramas-y-resolucion-de-conflictos-en-git/. [Consultado: 10-may-2022].
-
 			</li>
                 </ul>
             </td>
