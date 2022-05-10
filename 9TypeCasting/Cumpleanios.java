@@ -9,20 +9,27 @@
 //  - Booleano: Falso (Peso decimal) ; Verdadero (Peso entero)
 // y devuelve un arreglo con los pesos de pastel para cada asistente, siendo la primera porcion para el
 // cumpleaniero
+import java.util.Scanner;
+
 public class Cumpleanios{
 	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+
 		System.out.println("  ---- Birthday Party ----");
 
 		System.out.print("\nInsert cake weight: ");
-		double cakeWeight = 40.0; // Peso del pastel
-		System.out.print("\nCake weight: " + cakeWeight);
+		double cakeWeight = sc.nextDouble(); // Peso del pastel
+		System.out.print("\nCake weight: " + cakeWeight + " gr");
+		sc.nextLine(); // Continua la lectura en la siguiente linea
 
 		System.out.print("\nInsert assistants quantity: ");
-		int qtyAssistants = 12; // Cantidad de asistentes
+		int qtyAssistants = sc.nextInt(); // Cantidad de asistentes
 		System.out.print("\nAssistants quantity: " + qtyAssistants);
+		sc.nextLine(); // Continua la lectura en la siguiente linea
 
 		System.out.print("\nDivide in decimal or integer parts? (d/i): ");
-		char diInput = 'i';
+		String diInputStr = sc.next();
+		char diInput = diInputStr.charAt(0);
 		boolean boolDecOrInt = false; // Peso decimal o entero
 		if(diInput == 'd'){ // Particion modo Decimal
 			boolDecOrInt = false;
