@@ -76,9 +76,17 @@
         <tr>
             <td>
             II. SOLUCIÓN DEL CUESTIONARIO<br>
-                <ul>
-                    <li>¿por qué Git y GitHub son herramientas importantes para el curso?</li>
-                </ul>
+		<dl>
+                    <dt>¿por qué Git y GitHub son herramientas importantes para el curso?</dt>
+                    	<dd>En realidad creemos que estas herramientas van más allá del curso, pues son tecnologías que es el pan de cada dia de desarrolladores de todo el mundo, pues es la forma más optima de trabajo colaborativo.
+		    	</dd>
+                    <dt>¿Qué conductas éticas deberían promocionarse cuando se usa un sistema de control de versiones?</dt>
+                    	<dd> Teniendo en cuenta que por ahora estamos haciendo uso de esta herramienta para el control académico.Las conductas éticas que vmaos a seguir, es la de que al momento de desarrollar código deberíamos de ser honestos con la autoria del código, y referenciar si fuera el caso. 
+			</dd>
+                    <dt>¿Qué son los estándares de codificación?</dt>
+                    	<dd>En términos sencillos son patrones generales que debemos seguir al momento de codificar, estos se dan de acuerdo al lenguaje de programación; de acuerdo a la institución para que desarrollemos; el framework, etc. Son reglas que facilitan que haya un entendimiento de codigo para un desarrollador externo, asi nos encontramos la forma en la que se declaran las variables, el ordenamiento de carpetas, archivos, declaracion de clases, etc. Basicamente si hablamos de codificar podriamos slatarnos estas "reglas", sin embargo si queremos que nuestros proyectos puedan ser leidos con facilidad por otros desarrolladores (porque generalmente los proyectos son de caracter colaborativo) es que debemos adecuarnos a estos estandares.  
+		    	</dd>
+		</dl>
             </td>
         </tr>
         <tr>
@@ -90,11 +98,8 @@
 		    </li>
                     <li>
 		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el
-		    menejo de java.
+		    manejo de java.
 		    </li>
-
-                    <li>Colocar conclusiones</li>
-                    <li>Colocar conclusiones</li>
                     <li>Colocar conclusiones</li>
                 </ul>
             </td>
