@@ -94,13 +94,15 @@
             III. CONCLUSIONES<br>
                 <ul>
                     <li>
-		    El manejo de Git y GitHub por lo general al inicio es engorroso, sin embargo, con el uso prolongado se hace bastante más facil de abordar, además de que logras apreciar 			mejor los beneficios que trae consigo. Esta asignación logró mejorar el desarrollo con estas tecnologias. 
+		    El manejo de Git y GitHub por lo general al inicio es engorroso, sin embargo, con el uso prolongado se hace bastante más facil de abordar, ademá de que logras apreciar mejor los beneficios que trae consigo. Esta asignación logró mejorar el desarrollo con estas tecnologias. 
 		    </li>
                     <li>
 		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el
 		    manejo de java.
 		    </li>
                     <li>Colocar conclusiones</li>
+		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el manejo de java.
+		    </li>
                 </ul>
             </td>
         </tr>
