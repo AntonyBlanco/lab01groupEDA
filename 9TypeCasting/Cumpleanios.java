@@ -35,9 +35,30 @@ public class Cumpleanios{
 
 		// Porciones a distribuir
 		double[] portions = repartirPasteles(cakeWeight, qtyAssistants, boolDecOrInt);
+		mostrarRepartidos(portions);
 	}
 	public static double[] repartirPasteles(double cakeW, int qtyPeople, boolean decimalOrInteger){
-		return null;
+	// Funcion quer devuelve un arreglo de doubles correspondientes a la particion del pastel
+		double[] parts = new double[qtyPeople];
+		double division = cakeW/qtyPeople;
+		if(decimalOrInteger){ // Integer
+			int divInt = (int)division;
+			for(int i = 0; i < qtyPeople; i++){
+				parts[i] = divInt;
+			}
+			double rest = cakeW - (divInt*qtyPeople);
+			parts[0] += rest;
+		} else { // Decimal
+			for(int i = 0; i < qtyPeople; i++){
+				parts[i] = division;
+			}
+		}
+
+		return parts;
+	}
+	public static void mostrarRepartidos(double parts[]){
+	// Muestra en la salida estandar cada uno de los elementos del la lista de particiones
+		System.out.println("Showing parts ...");
 	}
 }
 
