@@ -68,8 +68,17 @@
         <tr>
             <td>
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
+		<hr>
+		JAVA TUTORIAL
+		<hr>
                 <ul>
-                    <li>Colocar ejercicios</li>
+                    <li></li>
+                </ul>
+		<hr>
+		JAVA METHODS
+		<hr>
+                <ul>
+                    <li></li>
                 </ul>
             </td>
         </tr>
