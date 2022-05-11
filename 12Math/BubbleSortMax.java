@@ -6,11 +6,11 @@ public class BubbleSortMax{
 
 		int arr[] = RandomArrayGenerator.genIntArray(15,0,100);
 		System.out.println("Random array");
-		RandomArrayGenerator.printArr(arr);
+		printArr(arr);
 
 		int[] sortedArray = bubbleSort(arr);
 		System.out.println("Sorted array");
-		RandomArrayGenerator.printArr(sortedArray);
+		printArr(sortedArray);
 	}
 	public static int[] bubbleSort(int[] arr){
 	// Ordenamiento burbuja con Math.max()
@@ -31,10 +31,20 @@ public class BubbleSortMax{
 				}
 			}
 			// Opcional, solo para ver el proceso de ordenamiento
-			RandomArrayGenerator.printArr(sorted);
+			printArr(sorted);
 		}
 		
 		return sorted;
+	}
+	public static void printArr(int[] arr){
+	// Imprime un arreglo de enteros
+		System.out.print("[");
+		for(int i = 0; i < arr.length; i++){
+			if(i != 0)
+				System.out.print(",");
+			System.out.print( arr[i] );
+		}
+		System.out.println("]");
 	}
 }
 
