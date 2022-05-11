@@ -19,6 +19,20 @@ public class BubbleSortMax{
 		for(int i = 0; i < arr.length; i++){
 			sorted[i] = arr[i];
 		}
+
+		for(int i = 0; i < sorted.length - 1; i++){
+			for(int n = 0; n < sorted.length - i - 1; n++){
+				// Intercambio de valores con Math.max
+				int max = Math.max(sorted[n], sorted[n+1]);
+				if(sorted[n] == max){
+					int tmp = sorted[n];
+					sorted[n] = sorted[n+1];
+					sorted[n+1] = tmp;
+				}
+			}
+			// Opcional, solo para ver el proceso de ordenamiento
+			RandomArrayGenerator.printArr(sorted);
+		}
 		
 		return sorted;
 	}
