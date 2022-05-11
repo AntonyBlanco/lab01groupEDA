@@ -72,7 +72,7 @@
 		JAVA TUTORIAL
 		<hr>
                 <ul>
-                	<li>1 Home</li>
+                	<li>1 Home: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/1Home</li>
 			<li>2 Intro</li>
 			<li>3 Get started</li>
 			<li>4 Syntax</li>
