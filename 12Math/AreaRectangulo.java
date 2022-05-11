@@ -1,5 +1,5 @@
 // Se ingresan 2 puntos opuestos (x, y) de un rectangulo en el espacio 2D
-// El programa calcula el área de dicho rectangulo
+// El programa calcula el área de dicho rectangulo usando Math.abs()
 import java.util.Scanner;
 
 public class AreaRectangulo{
@@ -20,7 +20,10 @@ public class AreaRectangulo{
 		System.out.println("\nArea calculara: " + area);
 	}
 	public static double calcularAreaRect( double xP1, double yP1, double xP2, double yP2){
-		return 0;
+	// Calcula el area del rectangulo usando Math.abs()
+		double base = Math.abs(xP1 - xP2);
+		double altura = Math.abs(yP1 - yP2);
+		return base * altura;
 	}
 }
 
