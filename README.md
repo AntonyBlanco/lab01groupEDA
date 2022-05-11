@@ -89,7 +89,7 @@
 			<li>15 Switch: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/15Switch</li>
 			<li>16 While Loop: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/16WhileLoop</li>
 			<li>17 For Loop: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/17ForLoop</li>
-			<li>18 Break/Continue: https://github.com/AntonyBlanco/lab01groupEDA/tree/Antony/18BreakContinue</li>
+			<li>18 Break/Continue: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/18BreakContinue</li>
 			<li>19 Arrays: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/19Arrays</li>
                 </ul>
 		<hr>
@@ -97,10 +97,10 @@
 		<hr>
                 <ul>
 			<li>20 Methods: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/20Methods</li>
-			<li>21 Method Parameters: https://github.com/AntonyBlanco/lab01groupEDA/tree/Antony/21MethodParameters</li>
+			<li>21 Method Parameters: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/21MethodParameters</li>
 			<li>22 Method Overloading: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/22Overloading</li>
 			<li>23 Scope: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/23Scope</li>
-			<li>24 Recursion: https://github.com/AntonyBlanco/lab01groupEDA/tree/Antony/24Recursion</li>
+			<li>24 Recursion: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/24Recursion</li>
                 </ul>
             </td>
         </tr>
