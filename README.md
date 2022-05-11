@@ -37,7 +37,7 @@
         <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
     </tr>
     <tr>
-        <td colspan="2">FECHA DE PRESENTACIÓN:</td><td>10-May-2022</td><td colspan="2">HORA DE PRESENTACIÓN:</td><td>8:00</td>
+        <td colspan="2">FECHA DE PRESENTACIÓN:</td><td>10-May-2022</td><td colspan="2">HORA DE PRESENTACIÓN:</td><td>11:00 PM</td>
     </tr>
     <tr>
         <td colspan="3">INTEGRANTES:
@@ -89,7 +89,7 @@
 			<li>15 Switch: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/15Switch</li>
 			<li>16 While Loop: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/16WhileLoop</li>
 			<li>17 For Loop: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/17ForLoop</li>
-			<li>18 Break/Continue: </li>
+			<li>18 Break/Continue: https://github.com/AntonyBlanco/lab01groupEDA/tree/Antony/18BreakContinue</li>
 			<li>19 Arrays: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/19Arrays</li>
                 </ul>
 		<hr>
