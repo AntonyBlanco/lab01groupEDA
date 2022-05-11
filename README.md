@@ -97,10 +97,10 @@
 		<hr>
                 <ul>
 			<li>20 Methods: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/20Methods</li>
-			<li>21 Method Parameters: </li>
+			<li>21 Method Parameters: https://github.com/AntonyBlanco/lab01groupEDA/tree/Antony/21MethodParameters</li>
 			<li>22 Method Overloading: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/22Overloading</li>
 			<li>23 Scope: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/23Scope</li>
-			<li>24 Recursion</li>
+			<li>24 Recursion: https://github.com/AntonyBlanco/lab01groupEDA/tree/Antony/24Recursion</li>
                 </ul>
             </td>
         </tr>
@@ -131,7 +131,7 @@
 		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el manejo de java.
 		    </li>
                     <li>Los problemas que más inconvenientes trajeron fueron la de resolver conflictos al momento del push o pull.</li>
-		    <li>Más allá de que podamos codificar en ramas independientes, al momento de unificar los proyectos independientes es necesario reunirse, en este caso hicimos uso del canal de comunicación "whatsapp", pero estamos concientes que para proyectos futuros esta forma de trabajo no será suficiente</li>
+		    <li>Más allá de que podamos codificar en ramas independientes, al momento de unificar los proyectos independientes es necesario reunirse, en este caso hicimos uso del canal de comunicación "whatsapp", pero estamos concientes que para proyectos futuros esta forma de trabajo no será suficiente.</li>
                 </ul>
             </td>
         </tr>
