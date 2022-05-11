@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Main{
+	public static void main(String[] args){
+		// Comments in java
+		System.out.println("Hello World");
+		
+		/* A continuación un programa que pide al usuario su nombre
+		 y lo saluda
+		*/
+		// Scanner para entrada estandar
+		Scanner sc = new Scanner(System.in);
+		// Prompt
+		System.out.print("What is your name?: ");
+		String name = sc.nextLine(); // Nombre
+		// Saludo
+		System.out.println("\nHello " + name + "!, nice to meet you.");
+	}
+}
