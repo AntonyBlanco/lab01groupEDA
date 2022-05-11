@@ -73,33 +73,33 @@
 		<hr>
                 <ul>
                 	<li>1 Home: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/1Home</li>
-			<li>2 Intro</li>
-			<li>3 Get started</li>
-			<li>4 Syntax</li>
-			<li>5 Output</li>
-			<li>6 Comments</li>
-			<li>7 Variables</li>
-			<li>8 Data Types</li>
-			<li>9 Type casting</li>
-			<li>10 Operators</li>
-			<li>11 Strings</li>
+			<li>2 Intro: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/2Intro</li>
+			<li>3 Get started: </li>
+			<li>4 Syntax: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/4Syntax</li>
+			<li>5 Output: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/5Output</li>
+			<li>6 Comments: </li>
+			<li>7 Variables: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/7Variables</li>
+			<li>8 Data Types: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/8DataTypes</li>
+			<li>9 Type casting: </li>
+			<li>10 Operators: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/10Operators</li>
+			<li>11 Strings: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/11Strings</li>
 			<li>12 Math</li>
-			<li>13 Booleans</li>
-			<li>14 If...Else</li>
+			<li>13 Booleans: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/13Booleans</li>
+			<li>14 If...Else: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/14if-else</li>
 			<li>15 Switch</li>
-			<li>16 While Loop</li>
-			<li>17 For Loop</li>
+			<li>16 While Loop: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/16WhileLoop</li>
+			<li>17 For Loop: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/17ForLoop</li>
 			<li>18 Break/Continue</li>
-			<li>19 Arrays</li>
+			<li>19 Arrays: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20TUTORIAL/19Arrays</li>
                 </ul>
 		<hr>
 		JAVA METHODS
 		<hr>
                 <ul>
-			<li>20 Methods</li>
-			<li>21 Method Parameters</li>
-			<li>22 Method Overloading</li>
-			<li>23 Scope</li>
+			<li>20 Methods: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/20Methods</li>
+			<li>21 Method Parameters: </li>
+			<li>22 Method Overloading: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/22Overloading</li>
+			<li>23 Scope: https://github.com/AntonyBlanco/lab01groupEDA/tree/main/JAVA%20METHODS/23Scope</li>
 			<li>24 Recursion</li>
                 </ul>
             </td>
