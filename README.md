@@ -109,13 +109,13 @@
             II. SOLUCIÓN DEL CUESTIONARIO<br>
 		<dl>
                     <dt>¿Por qué Git y GitHub son herramientas importantes para el curso?</dt>
-                    	<dd>En realidad creemos que estas herramientas van más allá del curso, pues son tecnologías que es el pan de cada dia de desarrolladores de todo el mundo, pues es la forma más optima de trabajo colaborativo.
+                    	<dd>En realidad creemos que estas herramientas van más allá del curso, pues son tecnologías que es el pan de cada dia de desarrolladores de todo el mundo, y es la forma más optima de trabajo colaborativo y nosotros debemos encaminarnos a esa linea.
 		    	</dd>
                     <dt>¿Qué conductas éticas deberían promocionarse cuando se usa un sistema de control de versiones?</dt>
-                    	<dd> Teniendo en cuenta que por ahora estamos haciendo uso de esta herramienta para el control académico.Las conductas éticas que vmaos a seguir, es la de que al momento de desarrollar código deberíamos de ser honestos con la autoria del código, y referenciar si fuera el caso. 
+                    	<dd> Teniendo en cuenta que por ahora estamos haciendo uso de esta herramienta para el control de códico (académicamente). Las conductas éticas que vmaos a seguir, es la de que al momento de desarrollar código deberíamos de ser honestos con la autoria del código, y referenciar si fuera el caso. Esta de más mencionar que nuestra conducta entre los colaboradores siempre será cordial y con toda la predisposición de ayudarnos mutuamente.  
 			</dd>
                     <dt>¿Qué son los estándares de codificación?</dt>
-                    	<dd>En términos sencillos son patrones generales que debemos seguir al momento de codificar, estos se dan de acuerdo al lenguaje de programación; de acuerdo a la institución para que desarrollemos; el framework, etc. Son reglas que facilitan que haya un entendimiento de codigo para un desarrollador externo, asi nos encontramos la forma en la que se declaran las variables, el ordenamiento de carpetas, archivos, declaracion de clases, etc. Basicamente si hablamos de codificar podriamos slatarnos estas "reglas", sin embargo si queremos que nuestros proyectos puedan ser leidos con facilidad por otros desarrolladores (porque generalmente los proyectos son de caracter colaborativo) es que debemos adecuarnos a estos estandares.  
+                    	<dd>En términos sencillos son patrones generales que debemos seguir al momento de codificar, estos se dan de acuerdo al lenguaje de programación; de acuerdo a la institución para que desarrollemos; el framework, etc. Son reglas que facilitan que haya un entendimiento de código para un desarrollador externo, asi nos encontramos la forma en la que se declaran las variables, el ordenamiento de carpetas, archivos, declaracion de clases, etc. Basicamente si hablamos de codificar podriamos saltarnos estas "reglas", sin embargo, si queremos que nuestros proyectos puedan ser leidos con facilidad por otros desarrolladores (porque generalmente los proyectos son de caracter colaborativo) es que debemos adecuarnos a estos estandares para poder tener una comunidad eficiente.
 		    	</dd>
 		</dl>
             </td>
@@ -125,14 +125,13 @@
             III. CONCLUSIONES<br>
                 <ul>
                     <li>
-		    El manejo de Git y GitHub por lo general al inicio es engorroso, sin embargo, con el uso prolongado se hace bastante más facil de abordar, ademá de que logras apreciar mejor los beneficios que trae consigo. Esta asignación logró mejorar el desarrollo con estas tecnologias. 
+		    El manejo de Git y GitHub por lo general al inicio es engorroso, sin embargo, con el uso prolongado se hace bastante más facil de abordar, además de que logras apreciar mejor los beneficios que trae consigo. Esta asignación logró mejorar el desarrollo con estas tecnologias. 
 		    </li>
                     <li>
-		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el
-		    manejo de java.
+		    Si bien es cierto que la linea base de esta asignación era la de reforzar el uso de Git y de GitHub, en el desarrollo de este trabajo tambien fortalecimos el manejo de java.
 		    </li>
                     <li>Los problemas que más inconvenientes trajeron fueron la de resolver conflictos al momento del push o pull.</li>
-		    </li>
+		    <li>Más allá de que podamos codificar en ramas independientes, al momento de unificar los proyectos independientes es necesario reunirse, en este caso hicimos uso del canal de comunicación "whatsapp", pero estamos concientes que para proyectos futuros esta forma de trabajo no será suficiente</li>
                 </ul>
             </td>
         </tr>
