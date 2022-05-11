@@ -15,7 +15,9 @@ public class Pitagoras{
 		
 	}
 	public static double pitagoras(double a, double b){
-		return 0;
+		double h = (a * a) + (b * b);
+		h = Math.sqrt(h);	
+		return h;
 	}
 }
 
