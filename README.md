@@ -68,8 +68,9 @@
         <tr>
             <td>
             I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS<br>
+		    <hr>
                 <ul>
-                    <li>Colocar ejercicios</li>
+                    <li></li>
                 </ul>
             </td>
         </tr>
